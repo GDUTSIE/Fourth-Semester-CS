@@ -39,14 +39,34 @@
 
 ### 贡献步骤
 
-1. Fork这个仓库到你的GitHub账户。
-2. 克隆你Fork的仓库到本地：`git clone https://github.com/<your-username>/2023-Spring-CS-course-materials.git`
-3. 在本地创建一个新的分支：`git checkout -b <branch-name>`
-4. 根据上述提到的贡献方式进行相应的修改或添加内容。
-5. 提交你的修改：`git add . && git commit -m "Your commit message"`
-6. 将修改推送到你的远程仓库：`git push origin <branch-name>`
-7. 在GitHub上创建一个Pull Request，将你的修改提交给我们。
+ - 如果您比较熟悉使用`git`命令，那么你可以按照以下步骤进行操作：
+1. 安装Git并创建一个GitHub帐户。
+2. 克隆仓库：在命令行中，导航到您想要存储仓库副本的位置，然后运行 git clone [仓库URL]。
+3. 创建一个新分支：运行 git checkout -b [分支名称]。
+4. 在新分支中进行更改。
+5. 将更改添加到暂存区：运行 git add [文件名]。
+6. 提交更改：运行 git commit -m "[提交信息]"。
+7. 将更改推送到远程仓库：运行 git push origin [分支名称]。
+8. 在GitHub上创建一个拉取请求（PR）。
 
+ - 如果您不太熟悉使用`git`命令，那么你可以按照以下步骤进行操作：
+1. 在GitHub上创建一个帐户并登录。
+2. 转到您的仓库页面并单击“Fork”按钮，这将在您的同学的帐户下创建一个仓库副本。
+3. 在副本仓库中进行更改：单击文件并单击编辑按钮，或者单击“Upload files”按钮上传新文件。
+4. 提交更改：在编辑页面底部，填写提交信息并单击“Commit changes”按钮。
+5. 创建一个拉取请求（PR）：转到您的仓库页面，单击“New pull request”按钮，选择您的同学的分支并创建PR。
+
+ - 如果您会用Github Desktop你可以按照以下步骤进行操作：
+1. 安装GitHub Desktop并登录您的GitHub帐户。
+2. 克隆仓库：在GitHub Desktop中，单击“File”>“Clone repository”，然后选择您要克隆的仓库。
+3. 创建一个新分支：在左上角的“Current branch”下拉菜单中，单击“New branch”并输入分支名称。
+4. 在新分支中进行更改。
+5. 提交更改：在右侧的更改面板中，输入提交摘要和描述，然后单击“Commit to [分支名称]”。
+6. 将更改推送到远程仓库：单击右上角的“Push origin”按钮。
+7. 在GitHub上创建一个拉取请求（PR）。
+ 
+ - 如果上面的您都不太熟悉，你可以直接提交issue让管理人员合并。
+ 
 我们会尽快查看并合并你的贡献。感谢你对广东工业大学国际教育学院2023年春季计算机科学与技术课程资料的支持和帮助！
 
 ## 联系方式
