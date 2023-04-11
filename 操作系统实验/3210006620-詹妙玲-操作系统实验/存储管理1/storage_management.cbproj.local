@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2013/06/23 17:33:03.000.407,=C:\Users\Administrator\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2013/06/23 17:44:53.000.558,D:\C++B_project\存储管理\storage.dfm=C:\Users\Administrator\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2013/06/23 17:44:53.000.558,D:\C++B_project\存储管理\storage.cpp=C:\Users\Administrator\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2013/06/23 17:44:53.000.558,D:\C++B_project\存储管理\storage.h=C:\Users\Administrator\Documents\RAD Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2013/06/23 17:45:10.000.014,D:\C++B_project\存储管理\storage_management.cbproj=C:\Users\Administrator\Documents\RAD Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2013/06/23 23:39:54.000.607,=D:\C++B_project\存储管理\Unit1.cpp</Transaction>
+    <Transaction>2013/06/23 23:40:29.000.910,D:\C++B_project\存储管理\select_form.dfm=D:\C++B_project\存储管理\Unit1.dfm</Transaction>
+    <Transaction>2013/06/23 23:40:29.000.910,D:\C++B_project\存储管理\select_form.h=D:\C++B_project\存储管理\Unit1.h</Transaction>
+    <Transaction>2013/06/23 23:40:29.000.910,D:\C++B_project\存储管理\select_form.cpp=D:\C++B_project\存储管理\Unit1.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
