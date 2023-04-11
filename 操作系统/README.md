@@ -41,13 +41,13 @@
 
 ## 贡献
 
-如果你想为这个项目提供帮助和建议，或者分享额外的资源，请查看主页的[如何贡献](https://github.com/GDUTINTL/2023-Spring-CS-course-materials#%E5%A6%82%E4%BD%95%E8%B4%A1%E7%8C%AE)部分。
+如果你想为这个项目提供帮助和建议，或者分享额外的资源，请查看主页的[如何贡献](https://github.com/GDUTSIE/2023-Spring-CS-course-materials#%E5%A6%82%E4%BD%95%E8%B4%A1%E7%8C%AE)部分。
 
 ## 联系方式
 
 如果你在使用这个课程资料过程中遇到问题，或者想要为这个项目提供帮助和建议，请通过以下方式联系我们：
 
 - 电子邮件: `admin@gdut.run`
-- GitHub Issues: [Issues 页面](https://github.com/GDUTINTL/2023-Spring-CS-course-materials/issues)
+- GitHub Issues: [Issues 页面](https://github.com/GDUTSIE/2023-Spring-CS-course-materials/issues)
 
 感谢你的关注和支持！
