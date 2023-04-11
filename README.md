@@ -64,7 +64,7 @@
 
 ### GitHub Issues
 
-你也可以在本仓库的 [Issues](https://github.com/GDUTINTL/2023-Spring-CS-course-materials/issues) 页面提交问题或建议。请在提交 Issue 时提供以下信息：
+你也可以在本仓库的 [Issues](https://github.com/GDUTSIE/2023-Spring-CS-course-materials/issues) 页面提交问题或建议。请在提交 Issue 时提供以下信息：
 
 - 标题：简要描述你遇到的问题或建议
 - 内容：详细描述你遇到的问题，或者你想提供的建议和帮助。
