@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/117586514/231061497-5a617830-19e3-477e-813b-dbddfa0c80e7.png" alt="cover" width="300" style="vertical-align:middle"/>
+</p>
+
 ## 课程简介
 
 本仓库包含广东工业大学国际教育学院2023年春季计算机科学与技术的课程资料。计算机科学与技术专业旨在培养具备扎实的计算机理论基础、广泛的计算机应用知识、良好的实践能力以及较强的创新精神的高级工程技术人才。
